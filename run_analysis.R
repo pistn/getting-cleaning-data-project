@@ -50,4 +50,5 @@ names(Data)<-gsub("BodyBody", "Body", names(Data))
 ##of each variable for each activity and each subject.
 DataFinal<-aggregate(formula=. ~subject + activity,data= Data,FUN= mean)
 write.table(DataFinal, file = "tidydata.txt",row.name=FALSE,sep=",")
-
+##view tidydata
+View(DataFinal)
