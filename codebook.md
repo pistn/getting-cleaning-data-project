@@ -12,22 +12,22 @@ These signals were used to estimate variables of the feature vector for each pat
 
 
 Initial names------->Descriptive names    
-tBodyAcc-XYZ-------> timeBodyAccelerometer-XYZ
-tGravityAcc-XYZ----> timeGravityAccelerometer-XYZ
-tBodyAccJerk-XYZ---> timeBodyAccelerometerJerk-XYZ
-tBodyGyro-XYZ------> timeBodyGyroscope-XYZ
-tBodyGyroJerk-XYZ--> timeBodyGyroscopeJerk-XYZ
-tBodyAccMag--------> timeBodyAccelerometerMagnitude
-tGravityAccMag-----> timeGravityAccelerometerMagnitude
-tBodyAccJerkMag----> timeBodyAccelerometerJerkMagnitude
-tBodyGyroMag-------> timeBodyGyroscopeMagnitude
-tBodyGyroJerkMag---> timeBodyGyroscopeJerkMagnitude
-fBodyAcc-XYZ-------> frequencyBodyAccelerometer-XYZ
-fBodyAccJerk-XYZ---> frequencyBodyAccelerometerJerk-XYZ
-fBodyGyro-XYZ------> frequencyBodyGyroscope-XYZ
-fBodyAccMag--------> frequncyBodyAccelerometerMagnitude
-fBodyAccJerkMag----> frequencyBodyAccelerometerJerkMagnitude
-fBodyGyroMag-------> frequencyBodyGyroscopeMagnitude
+tBodyAcc-XYZ-------> timeBodyAccelerometer-XYZ,
+tGravityAcc-XYZ----> timeGravityAccelerometer-XYZ,
+tBodyAccJerk-XYZ---> timeBodyAccelerometerJerk-XYZ,
+tBodyGyro-XYZ------> timeBodyGyroscope-XYZ,
+tBodyGyroJerk-XYZ--> timeBodyGyroscopeJerk-XYZ,
+tBodyAccMag--------> timeBodyAccelerometerMagnitude,
+tGravityAccMag-----> timeGravityAccelerometerMagnitude,
+tBodyAccJerkMag----> timeBodyAccelerometerJerkMagnitude,
+tBodyGyroMag-------> timeBodyGyroscopeMagnitude,
+tBodyGyroJerkMag---> timeBodyGyroscopeJerkMagnitude,
+fBodyAcc-XYZ-------> frequencyBodyAccelerometer-XYZ,
+fBodyAccJerk-XYZ---> frequencyBodyAccelerometerJerk-XYZ,
+fBodyGyro-XYZ------> frequencyBodyGyroscope-XYZ,
+fBodyAccMag--------> frequncyBodyAccelerometerMagnitude,
+fBodyAccJerkMag----> frequencyBodyAccelerometerJerkMagnitude,
+fBodyGyroMag-------> frequencyBodyGyroscopeMagnitude,
 fBodyGyroJerkMag---> frequencyBodyGyroscopeJerkMagnitude
 
 The set of variables that are extracted from the dataset are: 
